@@ -1,2 +1,3 @@
-This is 2nd file
-This is pushing to remote`
+This is 2nd file,
+This is pushing to remote,
+git fetch()
