@@ -1,3 +1,5 @@
 This is 2nd file.
 This is pushing to remote
 git push
+git fetch()
+
